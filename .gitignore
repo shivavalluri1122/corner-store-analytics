@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# generated / regeneratable data
+data/synthetic/large_clean.csv
+*.duckdb
+*.duckdb.wal
+
+# streamlit
+.streamlit/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.egg-info/

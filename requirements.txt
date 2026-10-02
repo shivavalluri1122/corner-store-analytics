@@ -1,0 +1,15 @@
+# --- Weeks 1-3 (in use) ---
+pandas
+numpy
+duckdb
+pandera
+streamlit
+plotly
+faker
+pytest
+openpyxl
+
+# --- Reserved for later weeks (installed, not yet used) ---
+prophet
+scikit-learn
+anthropic

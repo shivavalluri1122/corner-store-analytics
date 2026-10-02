@@ -1,0 +1,201 @@
+Date,Time,Time Zone,Category,Item,Qty,Price Point Name,Gross Sales,Discounts,Tax,Transaction ID,Payment ID,Device Name,Notes,Details,Event Type,Location,Dining Option,Customer Name,Customer ID,Customer Reference ID
+01/01/2025,06:45:58 PM,America/Chicago,Household & Cleaning,Batteries AA 4-Pack,2,Regular,$12.98,$0.00,$0.91,SQ20250101000035,PMT20250101000035,Register 2,,,Payment,Corner Store #1,,,,
+01/01/2025,04:36:18 PM,America/Chicago,Health & OTC,Digital Thermometer,1,Regular,$3.99,$0.00,$0.28,SQ20250101000043,PMT20250101000043,Mobile POS,,,Payment,Corner Store #1,,,,
+01/01/2025,05:35:45 PM,America/Chicago,Frozen Foods,Frozen French Fries Bag,2,Regular,$$12.00,$0.00,$0.84,SQ20250101000057,PMT20250101000057,Mobile POS,,,Payment,Corner Store #1,,,,
+01/01/2025,05:35:45 PM,America/Chicago,Bakery,Glazed Donut,1,Regular,$4.99,$0.00,$0.35,SQ20250101000057,PMT20250101000057,Register 2,,,Payment,Corner Store #1,,,,
+01/01/2025,05:35:45 PM,America/Chicago,Household & Cleaning,Toilet Paper 4-Pack,2,Regular,$5.98,$0.00,$0.42,SQ20250101000057,PMT20250101000057,Register 2,,,Payment,Corner Store #1,,,,
+01/01/2025,05:35:45 PM,America/Chicago,Beverages,Energy Drink Sugar-Free 16oz,1,Regular,$3.99,$0.00,$0.28,SQ20250101000057,PMT20250101000057,Register 2,,,Payment,Corner Store #1,,,,
+01/01/2025,05:35:45 PM,America/Chicago,Personal Care,Toothbrush Single,1,Regular,$8.49,$0.00,$0.59,SQ20250101000057,PMT20250101000057,Register 2,,,Payment,Corner Store #1,,,,
+01/02/2025,04:01:40 PM,America/Chicago,Beverages,Iced Latte Bottle 13oz,1,Regular,$1.99,$0.00,$0.14,SQ20250102000089,PMT20250102000089,Register 1,,,Payment,Corner Store #1,,,,
+01/02/2025,03:05:25 PM,America/Chicago,Snacks,Tortilla Chips Family Size,1,Regular,$2.99,$0.00,$0.21,SQ20250102000113,PMT20250102000113,Mobile POS,,,Payment,Corner Store #1,,,,
+01/02/2025,03:05:25 PM,America/Chicago,Dairy,2% Milk 1 Gallon,1,Regular,$4.49,$0.00,$0.31,SQ20250102000113,PMT20250102000113,Register 1,,,Payment,Corner Store #1,,,,
+01/02/2025,03:05:25 PM,America/Chicago,Beverages,Bottled Water 16.9oz,2,Regular,$7.98,$0.00,$0.56,SQ20250102000113,PMT20250102000113,Register 2,,,Payment,Corner Store #1,,,,
+01/02/2025,03:05:25 PM,America/Chicago,Bakery,Pound Cake Slice,1,Regular,$5.49,$0.00,$0.38,SQ20250102000113,PMT20250102000113,Mobile POS,,,Payment,Corner Store #1,,,,
+01/02/2025,03:05:25 PM,America/Chicago,Grocery & Pantry,Hot Sauce Bottle,1,Regular,$2.99,$0.00,$0.21,SQ20250102000113,PMT20250102000113,Register 2,,,Payment,Corner Store #1,,,,
+01/02/2025,07:41:23 AM,America/Chicago,Beverages,Orange Juice 12oz,1,Regular,$2.49,$0.00,$0.17,SQ20250102000132,PMT20250102000132,Mobile POS,,,Payment,Corner Store #1,,,,
+01/02/2025,04:38:39 PM,America/Chicago,Beverages,Diet Coke 20oz Bottle,1,Regular,$3.49,$0.00,$0.24,SQ20250102000166,PMT20250102000166,Register 2,,,Payment,Corner Store #1,,Danielle Wheeler,CUST212168,a8499b92-6b52-42e3-94fc-dd549e8fc965
+01/03/2025,01:29:16 PM,America/Chicago,Grocery & Pantry,Spaghetti Pasta Box,1,Regular,$4.99,$0.00,$0.35,SQ20250103000212,PMT20250103000212,Mobile POS,,,Payment,Corner Store #1,,,,
+01/03/2025,01:46:44 PM,America/Chicago,Health & OTC,First Aid Spray,1,Regular,$10.99,$0.00,$0.77,SQ20250103000225,PMT20250103000225,Mobile POS,,,Payment,Corner Store #1,,Richard Rodriguez,CUST286340,787f2425-dbcc-4477-89e9-db0adf465290
+01/03/2025,01:46:44 PM,America/Chicago,Health & OTC,First Aid Spray,1,Regular,$10.99,$0.00,$0.77,SQ20250103000225,PMT20250103000225,Mobile POS,,,Payment,Corner Store #1,,Richard Rodriguez,CUST286340,787f2425-dbcc-4477-89e9-db0adf465290
+01/03/2025,11:24:44 AM,America/Chicago,Household & Cleaning,Plastic Wrap Roll,1,Regular,$7.49,-$0.75,$0.47,SQ20250103000266,PMT20250103000266,Register 1,,,Payment,Corner Store #1,,,,
+01/03/2025,11:24:44 AM,America/Chicago,Grocery & Pantry,White Rice 2lb Bag,1,Regular,$4.49,$0.00,$0.31,SQ20250103000266,PMT20250103000266,Register 2,,,Payment,Corner Store #1,,,,
+01/03/2025,11:24:44 AM,America/Chicago,Beverages,Orange Juice 12oz,2,Regular,$4.98,$0.00,$0.35,SQ20250103000266,PMT20250103000266,Register 1,,,Payment,Corner Store #1,,,,
+01/03/2025,02:32:49 PM,America/Chicago,Frozen Foods,Frozen Corn Dogs 4-Pack,1,Regular,$5.99,$0.00,$0.42,SQ20250103000276,PMT20250103000276,Register 2,,,Payment,Corner Store #1,,,,
+01/04/2025,11:34:36 AM,America/Chicago,Frozen Foods,Frozen Mozzarella Sticks Bag,2,Regular,$12.98,$0.00,$0.91,SQ20250104000306,PMT20250104000306,Register 2,,,Payment,Corner Store #1,,Sandra Kelley,CUST785428,dc8aee30-be60-43f7-a8be-9288e5af6e39
+01/04/2025,08:43:47 AM,America/Chicago,Health & OTC,Vitamin C Tablets Bottle,1,Regular,$11.49,$0.00,$0.80,SQ20250104000328,PMT20250104000328,Mobile POS,,,Payment,Corner Store #1,,,,
+01/04/2025,07:32:35 PM,America/Chicago,Beverages,Energy Drink Sugar-Free 16oz,1,Regular,$3.99,$0.00,$0.28,SQ20250104000367,PMT20250104000367,Mobile POS,,,Payment,Corner Store #1,,,,
+01/04/2025,07:32:35 PM,America/Chicago,Bakery,Chocolate Donut,1,Regular,--,$0.00,$0.14,SQ20250104000367,PMT20250104000367,Register 2,,,Payment,Corner Store #1,,,,
+01/05/2025,02:41:23 PM,America/Chicago,Beverages,Iced Latte Bottle 13oz,1,Regular,$1.99,$0.00,$0.14,SQ20250105000383,PMT20250105000383,Register 1,,,Payment,Corner Store #1,,Stephen Sanchez,CUST506281,ab0e664e-9c3e-42d5-91e1-aa9676f72255
+01/05/2025,02:41:23 PM,America/Chicago,Snacks,Beef Jerky Original 2.85oz,2,Regular,$4.98,$0.00,$0.35,SQ20250105000383,PMT20250105000383,Register 1,,,Payment,Corner Store #1,,Stephen Sanchez,CUST506281,ab0e664e-9c3e-42d5-91e1-aa9676f72255
+01/05/2025,05:32:39 PM,America/Chicago,Dairy,String Cheese Pack,2,Regular,$7.98,$0.00,$0.56,SQ20250105000389,PMT20250105000389,Mobile POS,,,Payment,Corner Store #1,,,,
+01/05/2025,05:18:51 PM,America/Chicago,Bakery,Cinnamon Roll,three,Regular,--,$0.00,$0.38,SQ20250105000424,PMT20250105000424,Register 2,,,Payment,Corner Store #1,,,,
+01/06/2025,06:33:41 PM,America/Chicago,Household & Cleaning,Sandwich Bags Box,1,Regular,$5.99,$0.00,$0.42,SQ20250106000466,PMT20250106000466,Mobile POS,,,Payment,Corner Store #1,,,,
+01/06/2025,06:33:41 PM,America/Chicago,Personal Care,Travel Size Body Wash,2,Regular,$10.98,$0.00,$0.77,SQ20250106000466,PMT20250106000466,Register 2,,,Payment,Corner Store #1,,,,
+01/06/2025,07:44:57 PM,America/Chicago,Snacks,Mixed Nuts 1.5oz,1,Regular,$1.99,$0.00,$0.14,SQ20250106000468,PMT20250106000468,Register 1,,,Payment,Corner Store #1,,,,
+01/07/2025,11:01:59 AM,America/Chicago,Snacks,Rice Cakes Snack Pack,1,Regular,$1.99,$0.00,$0.14,SQ20250107000520,PMT20250107000520,Register 1,,,Payment,Corner Store #1,,,,
+01/07/2025,11:01:59 AM,America/Chicago,Beverages,Energy Drink Original 16oz,1,Regular,$3.49,$0.00,$0.24,SQ20250107000520,PMT20250107000520,Mobile POS,,,Payment,Corner Store #1,,,,
+01/07/2025,03:59:21 PM,America/Chicago,Candy,Milky Way Bar,1,Regular,$1.49,$0.00,$0.10,SQ20250107000526,PMT20250107000526,Register 1,,,Payment,Corner Store #1,,,,
+01/08/2025,07:44:25 PM,America/Chicago,Frozen Foods,Frozen Mixed Vegetables Bag,2,Regular,$5.00,$0.00,$0.35,SQ20250108000559,PMT20250108000559,Mobile POS,,,Payment,Corner Store #1,,,,
+01/08/2025,06:00:30 PM,America/Chicago,Health & OTC,First Aid Spray,1,Regular,$10.99,$0.00,$0.77,SQ20250108000613,PMT20250108000613,Mobile POS,,,Payment,Corner Store #1,,,,
+01/08/2025,06:00:30 PM,America/Chicago,Grocery & Pantry,Instant Oatmeal Packets,2,Regular,$2.98,$0.00,$0.21,SQ20250108000613,PMT20250108000613,Register 2,,,Payment,Corner Store #1,,,,
+01/08/2025,06:00:30 PM,America/Chicago,Snacks,Rice Cakes Snack Pack,1,Regular,$1.99,$0.00,$0.14,SQ20250108000613,PMT20250108000613,Register 1,,,Payment,Corner Store #1,,,,
+01/08/2025,06:00:30 PM,America/Chicago,Personal Care,Travel Size Shampoo,1,Regular,$3.99,$0.00,$0.28,SQ20250108000613,PMT20250108000613,Register 2,,,Payment,Corner Store #1,,,,
+01/08/2025,06:00:30 PM,America/Chicago,Snacks,Tortilla Chips Family Size,1,Regular,$2.99,$0.00,$0.21,SQ20250108000613,PMT20250108000613,Mobile POS,,,Payment,Corner Store #1,,,,
+01/09/2025,06:58:19 PM,America/Chicago,Personal Care,Travel Size Shampoo,1,Regular,$3.99,$0.00,$0.28,SQ20250109000643,PMT20250109000643,Register 2,,,Payment,Corner Store #1,,,,
+01/09/2025,11:02:58 AM,America/Chicago,Household & Cleaning,Matches Box,1,Regular,$11.49,$0.00,$0.80,SQ20250109000648,PMT20250109000648,Register 2,,,Payment,Corner Store #1,,,,
+01/09/2025,11:02:58 AM,America/Chicago,Personal Care,Toothbrush Single,3,Regular,$25.47,$0.00,$1.78,SQ20250109000648,PMT20250109000648,Register 1,,,Payment,Corner Store #1,,,,
+01/09/2025,08:49:44 AM,America/Chicago,Candy,Starburst Original Bag,1,Regular,$1.49,$0.00,$0.10,SQ20250109000652,PMT20250109000652,Register 1,,,Payment,Corner Store #1,,,,
+01/10/2025,06:30:47 PM,America/Chicago,Candy,Twix Bar,1,Regular,$1.49,$0.00,$0.10,SQ20250110000733,PMT20250110000733,Mobile POS,,,Payment,Corner Store #1,,Mr. Andrew Foster,CUST653071,345512f7-01f7-47ec-8e06-30cd996d5c50
+01/10/2025,06:30:47 PM,America/Chicago,Dairy,American Cheese Slices,1,Regular,$7.50,$0.00,$0.53,SQ20250110000733,PMT20250110000733,Register 1,,,Payment,Corner Store #1,,Mr. Andrew Foster,CUST653071,345512f7-01f7-47ec-8e06-30cd996d5c50
+01/10/2025,08:22:50 PM,America/Chicago,Grocery & Pantry,Pasta Sauce Jar,1,Regular,$4.99,$0.00,$0.35,SQ20250110000760,PMT20250110000760,Register 1,,,Payment,Corner Store #1,,,,
+01/10/2025,04:34:58 PM,America/Chicago,Beverages,Pepsi 20oz Bottle,3,Regular,$10.47,$0.00,$0.73,SQ20250110000765,PMT20250110000765,Register 2,,,Payment,Corner Store #1,,,,
+01/10/2025,04:34:58 PM,America/Chicago,Personal Care,Travel Size Shampoo,1,Regular,$3.99,$0.00,$0.28,SQ20250110000765,PMT20250110000765,Register 1,,,Payment,Corner Store #1,,,,
+01/11/2025,06:59:07 PM,America/Chicago,Frozen Foods,Frozen Pepperoni Pizza,1,Regular,$8.49,$0.00,$0.59,SQ20250111000770,PMT20250111000770,Register 1,,,Payment,Corner Store #1,,Sabrina Briggs,CUST130990,4187222b-257d-4e52-9a51-65ca3c7c1d85
+01/11/2025,06:59:07 PM,America/Chicago,Personal Care,Cotton Swabs Box,1,Regular,$1.99,$0.00,$0.14,SQ20250111000770,PMT20250111000770,Register 1,,,Payment,Corner Store #1,,Sabrina Briggs,CUST130990,4187222b-257d-4e52-9a51-65ca3c7c1d85
+01/11/2025,05:08:17 PM,America/Chicago,Dairy,2% Milk 1 Gallon,1,Regular,$4.49,$0.00,$0.31,SQ20250111000771,PMT20250111000771,Register 2,,,Payment,Corner Store #1,,Lance Wolf,CUST308915,f387e1bd-2d59-42c6-934a-5a2fa7cf705c
+01/11/2025,05:08:17 PM,America/Chicago,Frozen Foods,Frozen Breakfast Sandwich,2,Regular,$12.98,$0.00,$0.91,SQ20250111000771,PMT20250111000771,Register 1,,,Payment,Corner Store #1,,Lance Wolf,CUST308915,f387e1bd-2d59-42c6-934a-5a2fa7cf705c
+01/11/2025,05:08:17 PM,America/Chicago,Candy,Kit Kat Bar,1,Regular,$2.99,$0.00,$0.21,SQ20250111000771,PMT20250111000771,Register 2,,,Payment,Corner Store #1,,Lance Wolf,CUST308915,f387e1bd-2d59-42c6-934a-5a2fa7cf705c
+01/11/2025,05:08:17 PM,America/Chicago,Personal Care,Hand Sanitizer 2oz,3,Regular,$10.47,$0.00,$0.73,SQ20250111000771,PMT20250111000771,Mobile POS,,,Payment,Corner Store #1,,Lance Wolf,CUST308915,f387e1bd-2d59-42c6-934a-5a2fa7cf705c
+01/11/2025,04:39:06 PM,America/Chicago,Personal Care,Deodorant Stick,1,Regular,twelve dollars,$0.00,$0.21,SQ20250111000852,PMT20250111000852,Register 2,,,Payment,Corner Store #1,,,,
+01/11/2025,06:18:58 PM,America/Chicago,Beverages,Orange Juice 12oz,1,Regular,$2.49,$0.00,$0.17,SQ20250111000859,PMT20250111000859,Mobile POS,,,Payment,Corner Store #1,,Cynthia Wallace,CUST840632,c8a723e9-bfa0-46c2-809c-b50648f1096d
+01/11/2025,06:18:58 PM,America/Chicago,Grocery & Pantry,Hot Sauce Bottle,1,Regular,$2.99,$0.00,$0.21,SQ20250111000859,PMT20250111000859,Register 1,,,Payment,Corner Store #1,,Cynthia Wallace,CUST840632,c8a723e9-bfa0-46c2-809c-b50648f1096d
+01/11/2025,06:18:58 PM,America/Chicago,Bakery,Pound Cake Slice,1,Regular,$5.49,$0.00,$0.38,SQ20250111000859,PMT20250111000859,Register 1,,,Payment,Corner Store #1,,Cynthia Wallace,CUST840632,c8a723e9-bfa0-46c2-809c-b50648f1096d
+01/11/2025,06:18:58 PM,America/Chicago,Beverages,Energy Drink Original 16oz,1,Regular,$3.49,$0.00,$0.24,SQ20250111000859,PMT20250111000859,Register 2,,,Payment,Corner Store #1,,Cynthia Wallace,CUST840632,c8a723e9-bfa0-46c2-809c-b50648f1096d
+01/12/2025,08:03:33 AM,America/Chicago,Snacks,Lay's Classic Chips 1oz,1,Regular,$1.99,$0.00,$0.14,SQ20250112000870,PMT20250112000870,Register 1,,,Payment,Corner Store #1,,Brenda Wright,CUST661483,5f07c1a5-dfc6-40ce-bb07-fd31a4244f23
+01/12/2025,09:48:59 AM,America/Chicago,Candy,Starburst Original Bag,1,Regular,$1.49,$0.00,$0.10,SQ20250112000914,PMT20250112000914,Mobile POS,,,Payment,Corner Store #1,,Kimberly Acosta,CUST910822,c6b33fe6-1c76-4df6-ac5a-6c93871c0884
+01/12/2025,09:37:10 AM,America/Chicago,Bakery,White Sandwich Bread,2,Regular,$6.98,$0.00,$0.49,SQ20250112000932,PMT20250112000932,Mobile POS,,,Payment,Corner Store #1,,,,
+01/12/2025,09:37:10 AM,America/Chicago,Personal Care,Cotton Swabs Box,1,Regular,$1.99,$0.00,$0.14,SQ20250112000932,PMT20250112000932,Mobile POS,,,Payment,Corner Store #1,,,,
+01/13/2025,06:50:07 PM,America/Chicago,Bakery,Chocolate Donut,2,Regular,$3.98,$0.00,$0.28,SQ20250113000948,PMT20250113000948,Mobile POS,,,Payment,Corner Store #1,,,,
+01/13/2025,09:48:13 AM,America/Chicago,Dairy,Whole Milk Half Gallon,1,Regular,$6.49,$0.00,$0.45,SQ20250113000975,PMT20250113000975,Mobile POS,,,Payment,Corner Store #1,,Theresa Jones,CUST612867,83599af6-5d01-455f-a7fd-64c4a334058a
+01/13/2025,09:48:13 AM,America/Chicago,Health & OTC,Eye Drops Bottle,1,Regular,$2.50,$0.00,$0.18,SQ20250113000975,PMT20250113000975,Register 1,,,Payment,Corner Store #1,,Theresa Jones,CUST612867,83599af6-5d01-455f-a7fd-64c4a334058a
+01/13/2025,09:48:13 AM,America/Chicago,Dairy,Heavy Whipping Cream Pint,3,Regular,$22.47,-$2.25,$1.42,SQ20250113000975,PMT20250113000975,Register 2,,,Payment,Corner Store #1,,Theresa Jones,CUST612867,83599af6-5d01-455f-a7fd-64c4a334058a
+01/14/2025,06:37:08 PM,America/Chicago,Personal Care,Mouthwash 8oz,1,Regular,$4.99,$0.00,$0.35,SQ20250114001012,PMT20250114001012,Mobile POS,,,Payment,Corner Store #1,,Allison Spencer,CUST922312,fba6abf7-cdbc-4653-b7a7-e8b75e70f65f
+01/14/2025,06:37:08 PM,America/Chicago,Frozen Foods,Frozen French Fries Bag,2,Regular,$11.98,$0.00,$0.84,SQ20250114001012,PMT20250114001012,Register 2,,,Payment,Corner Store #1,,Allison Spencer,CUST922312,fba6abf7-cdbc-4653-b7a7-e8b75e70f65f
+01/14/2025,06:37:08 PM,America/Chicago,Beverages,Energy Drink Sugar-Free 16oz,1,Regular,$3.99,-$0.40,$0.25,SQ20250114001012,PMT20250114001012,Mobile POS,,,Payment,Corner Store #1,,Allison Spencer,CUST922312,fba6abf7-cdbc-4653-b7a7-e8b75e70f65f
+01/14/2025,06:37:08 PM,America/Chicago,Grocery & Pantry,Canned Corn,1,Regular,$4.99,$0.00,$0.35,SQ20250114001012,PMT20250114001012,Register 1,,,Payment,Corner Store #1,,Allison Spencer,CUST922312,fba6abf7-cdbc-4653-b7a7-e8b75e70f65f
+01/14/2025,06:37:08 PM,America/Chicago,Snacks,Rice Cakes Snack Pack,3,Regular,$5.97,$0.00,$0.42,SQ20250114001012,PMT20250114001012,Mobile POS,,,Payment,Corner Store #1,,Allison Spencer,CUST922312,fba6abf7-cdbc-4653-b7a7-e8b75e70f65f
+01/14/2025,09:37:20 PM,America/Chicago,Beverages,Bottled Water 16.9oz,1,Regular,$3.99,$0.00,$0.28,SQ20250114001015,PMT20250114001015,Register 1,,,Payment,Corner Store #1,,,,
+01/14/2025,09:37:20 PM,America/Chicago,Personal Care,Facial Tissues Box,1,Regular,$5.49,$0.00,$0.38,SQ20250114001015,PMT20250114001015,Mobile POS,,,Payment,Corner Store #1,,,,
+01/14/2025,09:37:20 PM,America/Chicago,Frozen Foods,Frozen Mozzarella Sticks Bag,2,Regular,$12.98,$0.00,$0.91,SQ20250114001015,PMT20250114001015,Register 1,,,Payment,Corner Store #1,,,,
+01/14/2025,09:37:20 PM,America/Chicago,Personal Care,Band-Aids Box,1,Regular,$5.49,$0.00,$0.38,SQ20250114001015,PMT20250114001015,Mobile POS,,,Payment,Corner Store #1,,,,
+01/14/2025,09:37:20 PM,America/Chicago,Beverages,Iced Tea Lemon 18.5oz,1,Regular,$3.49,$0.00,$0.24,SQ20250114001015,PMT20250114001015,Register 2,,,Payment,Corner Store #1,,,,
+01/15/2025,05:13:25 PM,America/Chicago,Bakery,Chocolate Chip Muffin,3,Regular,$10.47,$0.00,$0.73,SQ20250115001046,PMT20250115001046,Register 2,,,Payment,Corner Store #1,,Thomas Brown,CUST213927,4ddb1b36-272c-4588-84a2-576c1fc905f8
+01/15/2025,05:13:25 PM,America/Chicago,Health & OTC,Allergy Relief Tablets,1,Regular,$13.49,$0.00,$0.94,SQ20250115001046,PMT20250115001046,Mobile POS,,,Payment,Corner Store #1,,Thomas Brown,CUST213927,4ddb1b36-272c-4588-84a2-576c1fc905f8
+01/15/2025,05:38:18 PM,America/Chicago,Grocery & Pantry,White Rice 2lb Bag,1,Regular,$4.49,$0.00,$0.31,SQ20250115001068,PMT20250115001068,Mobile POS,,,Payment,Corner Store #1,,John Harris,CUST643962,dc8a4922-5005-480f-a4c7-78a59b4e164b
+01/15/2025,05:38:18 PM,America/Chicago,Bakery,White Sandwich Bread,1,Regular,$3.49,$0.00,$0.24,SQ20250115001068,PMT20250115001068,Mobile POS,,,Payment,Corner Store #1,,John Harris,CUST643962,dc8a4922-5005-480f-a4c7-78a59b4e164b
+01/15/2025,05:38:18 PM,America/Chicago,Beverages,Sprite 20oz Bottle,1,Regular,$1.49,$0.00,$0.10,SQ20250115001068,PMT20250115001068,Mobile POS,,,Payment,Corner Store #1,,John Harris,CUST643962,dc8a4922-5005-480f-a4c7-78a59b4e164b
+01/15/2025,05:38:18 PM,America/Chicago,Candy,Sour Patch Kids Bag,1,Regular,$1.99,$0.00,$0.14,SQ20250115001068,PMT20250115001068,Register 1,,,Payment,Corner Store #1,,John Harris,CUST643962,dc8a4922-5005-480f-a4c7-78a59b4e164b
+01/15/2025,11:14:09 AM,America/Chicago,Candy,Milky Way Bar,1,Regular,$1.49,$0.00,$0.10,SQ20250115001083,PMT20250115001083,Register 2,,,Payment,Corner Store #1,,,,
+01/16/2025,01:35:02 PM,America/Chicago,Personal Care,Hand Sanitizer 2oz,1,Regular,$3.49,$0.00,$0.24,SQ20250116001114,PMT20250116001114,Mobile POS,,,Payment,Corner Store #1,,Gary Wells,CUST254546,e4a4474c-9b33-43a4-a620-f9a974fd33d1
+01/16/2025,06:59:35 PM,America/Chicago,Beverages,Sprite 20oz Bottle,1,Regular,$1.49,$0.00,$0.10,SQ20250116001128,PMT20250116001128,Register 1,,,Payment,Corner Store #1,,,,
+01/16/2025,07:05:39 PM,America/Chicago,Beverages,Energy Drink Original 16oz,3,Regular,$10.47,$0.00,$0.73,SQ20250116001138,PMT20250116001138,Register 2,,,Payment,Corner Store #1,,,,
+01/17/2025,07:47:32 PM,America/Chicago,Health & OTC,Eye Drops Bottle,3,Regular,$7.50,$0.00,$0.53,SQ20250117001173,PMT20250117001173,Register 2,,,Payment,Corner Store #1,,Joshua Fitzpatrick,CUST509668,1bf645f6-2324-4211-8588-fc1bb2384849
+13/45/2025,07:47:32 PM,America/Chicago,Household & Cleaning,Dish Soap 12oz,3,Regular,$17.97,$0.00,$1.26,SQ20250117001173,PMT20250117001173,Register 2,,,Payment,Corner Store #1,,Joshua Fitzpatrick,CUST509668,1bf645f6-2324-4211-8588-fc1bb2384849
+01/17/2025,07:47:32 PM,America/Chicago,Household & Cleaning,Dish Soap 12oz,1,Regular,$5.99,$0.00,$0.42,SQ20250117001173,PMT20250117001173,Register 1,,,Payment,Corner Store #1,,Joshua Fitzpatrick,CUST509668,1bf645f6-2324-4211-8588-fc1bb2384849
+01/17/2025,07:47:32 PM,America/Chicago,Bakery,Wheat Sandwich Bread,1,Regular,$5.99,-$0.60,$0.38,SQ20250117001173,PMT20250117001173,Mobile POS,,,Payment,Corner Store #1,,Joshua Fitzpatrick,CUST509668,1bf645f6-2324-4211-8588-fc1bb2384849
+01/17/2025,02:46:45 PM,America/Chicago,Grocery & Pantry,Instant Oatmeal Packets,1,Regular,$1.49,$0.00,$0.10,SQ20250117001196,PMT20250117001196,Mobile POS,,,Payment,Corner Store #1,,Ashley Bird,CUST873704,a42d0cd7-fd35-4f6a-b450-388748d90846
+01/17/2025,02:46:45 PM,America/Chicago,Bakery,Hot Dog Buns 8-Pack,2,Regular,$10.98,$0.00,$0.77,SQ20250117001196,PMT20250117001196,Mobile POS,,,Payment,Corner Store #1,,Ashley Bird,CUST873704,a42d0cd7-fd35-4f6a-b450-388748d90846
+01/17/2025,02:46:45 PM,America/Chicago,Health & OTC,Nasal Spray,1,Regular,$12.49,$0.00,$0.87,SQ20250117001196,PMT20250117001196,Mobile POS,,,Payment,Corner Store #1,,Ashley Bird,CUST873704,a42d0cd7-fd35-4f6a-b450-388748d90846
+01/17/2025,02:46:45 PM,America/Chicago,Beverages,Coca-Cola 20oz Bottle,1,Regular,$3.49,$0.00,$0.24,SQ20250117001196,PMT20250117001196,Mobile POS,,,Payment,Corner Store #1,,Ashley Bird,CUST873704,a42d0cd7-fd35-4f6a-b450-388748d90846
+01/17/2025,04:10:01 PM,America/Chicago,Frozen Foods,Frozen Corn Dogs 4-Pack,1,Regular,$5.99,$0.00,$0.42,SQ20250117001218,PMT20250117001218,Register 1,,,Payment,Corner Store #1,,,,
+01/17/2025,04:10:01 PM,America/Chicago,Household & Cleaning,Batteries AA 4-Pack,1,Regular,$6.49,$0.00,$0.45,SQ20250117001218,PMT20250117001218,Register 1,,,Payment,Corner Store #1,,,,
+01/17/2025,04:10:01 PM,America/Chicago,Snacks,Beef Jerky Original 2.85oz,1,Regular,$2.49,$0.00,$0.17,SQ20250117001218,PMT20250117001218,Register 1,,,Payment,Corner Store #1,,,,
+01/17/2025,04:10:01 PM,America/Chicago,Grocery & Pantry,Pasta Sauce Jar,1,Regular,$4.99,$0.00,$0.35,SQ20250117001218,PMT20250117001218,Mobile POS,,,Payment,Corner Store #1,,,,
+01/17/2025,04:10:01 PM,America/Chicago,Snacks,Mixed Nuts 1.5oz,1,Regular,$1.99,$0.00,$0.14,SQ20250117001218,PMT20250117001218,Register 2,,,Payment,Corner Store #1,,,,
+01/18/2025,04:27:21 PM,America/Chicago,Beverages,Iced Latte Bottle 13oz,1,Regular,$1.99,$0.00,$0.14,SQ20250118001263,PMT20250118001263,Register 2,,,Payment,Corner Store #1,,Kendra Luna,CUST943668,c194f97f-00e3-4026-95b6-de85390239d9
+01/18/2025,04:27:21 PM,America/Chicago,Frozen Foods,Frozen Pot Pie,N/A,Regular,$6.99,$0.00,$0.49,SQ20250118001263,PMT20250118001263,Mobile POS,,,Payment,Corner Store #1,,Kendra Luna,CUST943668,c194f97f-00e3-4026-95b6-de85390239d9
+01/18/2025,04:27:21 PM,America/Chicago,Dairy,Whole Milk Half Gallon,1,Regular,$6.49,$0.00,$0.45,SQ20250118001263,PMT20250118001263,Register 1,,,Payment,Corner Store #1,,Kendra Luna,CUST943668,c194f97f-00e3-4026-95b6-de85390239d9
+01/18/2025,04:34:18 PM,America/Chicago,Health & OTC,First Aid Spray,2,Regular,$21.98,$0.00,$1.54,SQ20250118001283,PMT20250118001283,Mobile POS,,,Payment,Corner Store #1,,,,
+01/18/2025,04:34:18 PM,America/Chicago,Beverages,Orange Juice 12oz,1,Regular,$2.49,$0.00,$0.17,SQ20250118001283,PMT20250118001283,Mobile POS,,,Payment,Corner Store #1,,,,
+01/18/2025,04:34:18 PM,America/Chicago,Health & OTC,Allergy Relief Tablets,1,Regular,$13.49,$0.00,$0.94,SQ20250118001283,PMT20250118001283,Mobile POS,,,Payment,Corner Store #1,,,,
+01/18/2025,01:39:21 PM,America/Chicago,Beverages,Mountain Dew 20oz Bottle,1,Regular,$3.49,$0.00,$0.24,SQ20250118001290,PMT20250118001290,Mobile POS,,,Payment,Corner Store #1,,,,
+01/18/2025,01:39:21 PM,America/Chicago,Beverages,Orange Juice 12oz,1,Regular,$2.49,$0.00,$0.17,SQ20250118001290,PMT20250118001290,Register 2,,,Payment,Corner Store #1,,,,
+01/19/2025,08:26:03 AM,America/Chicago,Household & Cleaning,Air Freshener Spray,1,Regular,$6.49,$0.00,$0.45,SQ20250119001346,PMT20250119001346,Mobile POS,,,Payment,Corner Store #1,,,,
+01/19/2025,08:26:03 AM,America/Chicago,Household & Cleaning,Aluminum Foil Roll,3,Regular,$13.47,$0.00,$0.94,SQ20250119001346,PMT20250119001346,Register 1,,,Payment,Corner Store #1,,,,
+01/19/2025,07:35:34 PM,America/Chicago,Beverages,Iced Tea Lemon 18.5oz,1,Regular,$3.49,$0.00,$0.24,SQ20250119001380,PMT20250119001380,Mobile POS,,,Payment,Corner Store #1,,,,
+01/19/2025,03:03:50 PM,America/Chicago,Personal Care,Facial Tissues Box,2,Regular,$10.98,$0.00,$0.77,SQ20250119001392,PMT20250119001392,Register 1,,,Payment,Corner Store #1,,,,
+01/20/2025,04:21:57 PM,America/Chicago,Bakery,Pound Cake Slice,1,Regular,$5.49,$0.00,$0.38,SQ20250120001422,PMT20250120001422,Mobile POS,,,Payment,Corner Store #1,,,,
+01/20/2025,07:50:02 AM,America/Chicago,Grocery & Pantry,Sugar 2lb Bag,1,Regular,$5.99,$0.00,$0.42,SQ20250120001436,PMT20250120001436,Mobile POS,,,Payment,Corner Store #1,,,,
+01/20/2025,07:50:02 AM,America/Chicago,Grocery & Pantry,Canned Tuna,2,Regular,$5.98,$0.00,$0.42,SQ20250120001436,PMT20250120001436,Register 2,,,Payment,Corner Store #1,,,,
+01/21/2025,08:15:00 AM,America/Chicago,Grocery & Pantry,Instant Oatmeal Packets,3,Regular,$4.47,$0.00,$0.31,SQ20250121001482,PMT20250121001482,Mobile POS,,,Payment,Corner Store #1,,,,
+01/21/2025,07:44:22 AM,America/Chicago,Grocery & Pantry,Spaghetti Pasta Box,1,Regular,$4.99,$0.00,$0.35,SQ20250121001526,PMT20250121001526,Register 1,,,Payment,Corner Store #1,,,,
+01/21/2025,07:44:22 AM,America/Chicago,Personal Care,Hand Sanitizer 2oz,1,Regular,$3.49,-$0.35,$0.22,SQ20250121001526,PMT20250121001526,Register 2,,,Payment,Corner Store #1,,,,
+01/22/2025,07:32:39 PM,America/Chicago,Grocery & Pantry,Hot Sauce Bottle,2,Regular,$5.98,$0.00,$0.42,SQ20250122001550,PMT20250122001550,Mobile POS,,,Payment,Corner Store #1,,,,
+01/22/2025,07:32:39 PM,America/Chicago,Snacks,Cheese Crackers Pack,1,Regular,$3.49,$0.00,$0.24,SQ20250122001550,PMT20250122001550,Register 1,,,Payment,Corner Store #1,,,,
+01/22/2025,05:34:44 PM,America/Chicago,Personal Care,Travel Size Shampoo,1,Regular,$3.99,$0.00,$0.28,SQ20250122001555,PMT20250122001555,Mobile POS,,,Payment,Corner Store #1,,Lisa Cervantes,CUST792837,eb2ec80e-4c25-4823-8cf4-ffb0b4bba73f
+01/22/2025,05:34:44 PM,America/Chicago,Beverages,Sprite 20oz Bottle,1,Regular,$1.49,$0.00,$0.10,SQ20250122001555,PMT20250122001555,Register 2,,,Payment,Corner Store #1,,Lisa Cervantes,CUST792837,eb2ec80e-4c25-4823-8cf4-ffb0b4bba73f
+01/23/2025,01:57:21 PM,America/Chicago,Frozen Foods,Frozen French Fries Bag,1,Regular,$5.99,$0.00,$0.42,SQ20250123001597,PMT20250123001597,Register 1,,,Payment,Corner Store #1,,,,
+01/23/2025,01:57:21 PM,America/Chicago,Snacks,Cheese Crackers Pack,1,Regular,$3.49,$0.00,$0.24,SQ20250123001597,PMT20250123001597,Mobile POS,,,Payment,Corner Store #1,,,,
+01/23/2025,01:57:21 PM,America/Chicago,Personal Care,Cotton Swabs Box,1,Regular,$1.99,$0.00,$0.14,SQ20250123001597,PMT20250123001597,Register 2,,,Payment,Corner Store #1,,,,
+01/23/2025,01:15:05 PM,America/Chicago,Grocery & Pantry,Pasta Sauce Jar,1,Regular,$4.99,$0.00,$0.35,SQ20250123001599,PMT20250123001599,Register 1,,,Payment,Corner Store #1,,,,
+01/23/2025,01:15:05 PM,America/Chicago,Snacks,Mixed Nuts 1.5oz,1,Regular,$1.99,$0.00,$0.14,SQ20250123001599,PMT20250123001599,Register 2,,,Payment,Corner Store #1,,,,
+01/23/2025,01:15:05 PM,America/Chicago,Bakery,Banana Bread Slice,3,Regular,$5.97,$0.00,$0.42,SQ20250123001599,PMT20250123001599,Mobile POS,,,Payment,Corner Store #1,,,,
+01/23/2025,06:48:24 PM,America/Chicago,Personal Care,Hair Gel Small,1,Regular,$7.49,$0.00,$0.52,SQ20250123001607,PMT20250123001607,Mobile POS,,,Payment,Corner Store #1,,,,
+01/23/2025,06:48:24 PM,America/Chicago,Personal Care,Cotton Swabs Box,2,Regular,$3.98,$0.00,$0.28,SQ20250123001607,PMT20250123001607,Mobile POS,,,Payment,Corner Store #1,,,,
+01/23/2025,06:48:24 PM,America/Chicago,Beverages,Gatorade Lemon-Lime 28oz,two dozen,Regular,$1.49,$0.00,$0.10,SQ20250123001607,PMT20250123001607,Register 2,,,Payment,Corner Store #1,,,,
+01/24/2025,05:45:35 PM,America/Chicago,Grocery & Pantry,Instant Ramen Noodles,1,Regular,$3.49,-$0.35,$0.22,SQ20250124001665,PMT20250124001665,Mobile POS,,,Payment,Corner Store #1,,,,
+01/24/2025,11:10:18 AM,America/Chicago,Snacks,Lay's Classic Chips 1oz,1,Regular,$1.99,-$0.20,$0.13,SQ20250124001700,PMT20250124001700,Mobile POS,,,Payment,Corner Store #1,,,,
+01/24/2025,02:27:55 PM,America/Chicago,Frozen Foods,Frozen Burritos 4-Pack,3,Regular,$26.97,-$2.70,$1.70,SQ20250124001721,PMT20250124001721,Mobile POS,,,Payment,Corner Store #1,,Patricia Smith,CUST395048,373aedf8-431e-430f-8387-f74d1149d096
+01/25/2025,06:53:41 PM,America/Chicago,Bakery,Wheat Sandwich Bread,2,Regular,$11.98,$0.00,$0.84,SQ20250125001733,PMT20250125001733,Register 1,,,Payment,Corner Store #1,,,,
+01/25/2025,10:22:24 AM,America/Chicago,Grocery & Pantry,Sugar 2lb Bag,N/A,Regular,$11.98,$0.00,$0.84,SQ20250125001765,PMT20250125001765,Mobile POS,,,Payment,Corner Store #1,,,,
+01/25/2025,10:22:24 AM,America/Chicago,Household & Cleaning,Toilet Paper 4-Pack,1,Regular,$2.99,$0.00,$0.21,SQ20250125001765,PMT20250125001765,Mobile POS,,,Payment,Corner Store #1,,,,
+01/25/2025,12:23:01 PM,America/Chicago,Beverages,Iced Tea Lemon 18.5oz,1,Regular,$3.49,$0.00,$0.24,SQ20250125001804,PMT20250125001804,Register 2,,,Payment,Corner Store #1,,Richard Richards,CUST308716,7316ce64-2a14-4a96-9b0c-62eb27c8fc6c
+01/25/2025,12:23:01 PM,America/Chicago,Snacks,Rice Cakes Snack Pack,1,Regular,$1.99,$0.00,$0.14,SQ20250125001804,PMT20250125001804,Register 2,,,Payment,Corner Store #1,,Richard Richards,CUST308716,7316ce64-2a14-4a96-9b0c-62eb27c8fc6c
+01/26/2025,02:32:09 PM,America/Chicago,Grocery & Pantry,Canned Black Beans,1,Regular,$6.49,$0.00,$0.45,SQ20250126001853,PMT20250126001853,Register 2,,,Payment,Corner Store #1,,Rebecca Mayo,CUST253806,7acc9970-5bee-4570-b69f-75c5c82ba1be
+01/26/2025,02:32:09 PM,America/Chicago,Grocery & Pantry,Canned Black Beans,2,Regular,$12.98,$0.00,$0.91,SQ20250126001853,PMT20250126001853,Register 2,,,Payment,Corner Store #1,,Rebecca Mayo,CUST253806,7acc9970-5bee-4570-b69f-75c5c82ba1be
+01/26/2025,02:32:09 PM,America/Chicago,Frozen Foods,Frozen Chocolate Ice Cream Pint,1,Regular,$8.49,$0.00,$0.59,SQ20250126001853,PMT20250126001853,Register 2,,,Payment,Corner Store #1,,Rebecca Mayo,CUST253806,7acc9970-5bee-4570-b69f-75c5c82ba1be
+01/26/2025,02:32:09 PM,America/Chicago,Bakery,White Sandwich Bread,1,Regular,$$12.00,$0.00,$0.24,SQ20250126001853,PMT20250126001853,Mobile POS,,,Payment,Corner Store #1,,Rebecca Mayo,CUST253806,7acc9970-5bee-4570-b69f-75c5c82ba1be
+01/26/2025,04:14:30 PM,America/Chicago,Beverages,Iced Latte Bottle 13oz,2,Regular,$3.98,$0.00,$0.28,SQ20250126001861,PMT20250126001861,Mobile POS,,,Payment,Corner Store #1,,,,
+01/26/2025,04:14:30 PM,America/Chicago,Frozen Foods,Frozen Ice Cream Sandwiches 6-Pack,1,Regular,$2.50,$0.00,$0.18,SQ20250126001861,PMT20250126001861,Register 2,,,Payment,Corner Store #1,,,,
+01/27/2025,12:28:31 PM,America/Chicago,Frozen Foods,Frozen Pepperoni Pizza,1,Regular,$8.49,$0.00,$0.59,SQ20250127001888,PMT20250127001888,Register 2,,,Payment,Corner Store #1,,,,
+01/27/2025,08:01:03 AM,America/Chicago,Health & OTC,Antacid Tablets Roll,1,Regular,$5.49,$0.00,$0.38,SQ20250127001920,PMT20250127001920,Register 2,,,Payment,Corner Store #1,,,,
+01/27/2025,08:01:03 AM,America/Chicago,Health & OTC,Ibuprofen Tablets Small Bottle,2,Regular,$18.98,$0.00,$1.33,SQ20250127001920,PMT20250127001920,Register 2,,,Payment,Corner Store #1,,,,
+01/27/2025,09:18:56 AM,America/Chicago,Health & OTC,Cough Drops Bag,1,Regular,$13.49,-$1.35,$0.85,SQ20250127001928,PMT20250127001928,Mobile POS,,,Payment,Corner Store #1,,Margaret Tanner,CUST844474,35adde88-43e4-4668-82ea-d2df725656e3
+01/28/2025,04:51:08 PM,America/Chicago,Candy,Reese's Peanut Butter Cups,2,Regular,$2.98,$0.00,$0.21,SQ20250128001953,PMT20250128001953,Register 2,,,Payment,Corner Store #1,,,,
+01/28/2025,05:30:35 PM,America/Chicago,Personal Care,Travel Size Shampoo,1,Regular,$3.99,$0.00,$0.28,SQ20250128001962,PMT20250128001962,Register 1,,,Payment,Corner Store #1,,David Williams,CUST794346,7daec949-d700-4461-8cb6-b0ba925f8199
+01/29/2025,07:32:02 AM,America/Chicago,Personal Care,Bar Soap 2-Pack,2,Regular,$7.98,$0.00,$0.56,SQ20250129002002,PMT20250129002002,Mobile POS,,,Payment,Corner Store #1,,Barbara Todd,CUST465585,2acb4fbd-fbff-4a7d-b2f5-b1762c41cbd3
+01/29/2025,07:32:02 AM,America/Chicago,Household & Cleaning,LED Light Bulbs 2-Pack,1,Regular,$2.49,$0.00,$0.17,SQ20250129002002,PMT20250129002002,Register 1,,,Payment,Corner Store #1,,Barbara Todd,CUST465585,2acb4fbd-fbff-4a7d-b2f5-b1762c41cbd3
+01/29/2025,07:01:32 PM,America/Chicago,Health & OTC,Nasal Spray,1,Regular,$12.49,$0.00,$0.87,SQ20250129002011,PMT20250129002011,Register 1,,,Payment,Corner Store #1,,,,
+01/30/2025,04:33:42 PM,America/Chicago,Household & Cleaning,Sponges 3-Pack,1,Regular,$9.49,$0.00,$0.66,SQ20250130002085,PMT20250130002085,Mobile POS,,,Payment,Corner Store #1,,,,
+01/30/2025,04:33:42 PM,America/Chicago,Household & Cleaning,Plastic Wrap Roll,1,Regular,$7.49,$0.00,$0.52,SQ20250130002085,PMT20250130002085,Register 2,,,Payment,Corner Store #1,,,,
+01/30/2025,04:33:42 PM,America/Chicago,Bakery,Wheat Sandwich Bread,2,Regular,$11.98,-$1.20,$0.75,SQ20250130002085,PMT20250130002085,Mobile POS,,,Payment,Corner Store #1,,,,
+01/30/2025,12:04:20 PM,America/Chicago,Household & Cleaning,Plastic Wrap Roll,1,Regular,$7.49,-$0.75,$0.47,SQ20250130002119,PMT20250130002119,Mobile POS,,,Payment,Corner Store #1,,,,
+01/30/2025,12:04:20 PM,America/Chicago,Snacks,Peanut Butter Crackers Pack,1,Regular,$3.49,$0.00,$0.24,SQ20250130002119,PMT20250130002119,Mobile POS,,,Payment,Corner Store #1,,,,
+01/30/2025,12:04:20 PM,America/Chicago,Household & Cleaning,Sponges 3-Pack,1,Regular,$9.49,$0.00,$0.66,SQ20250130002119,PMT20250130002119,Register 2,,,Payment,Corner Store #1,,,,
+01/31/2025,12:35:14 PM,America/Chicago,Candy,Reese's Peanut Butter Cups,1,Regular,$1.49,$0.00,$0.10,SQ20250131002160,PMT20250131002160,Register 2,,,Payment,Corner Store #1,,,,
+01/31/2025,05:08:31 PM,America/Chicago,Snacks,Cheese Crackers Pack,2,Regular,$6.98,$0.00,$0.49,SQ20250131002172,PMT20250131002172,Register 2,,,Payment,Corner Store #1,,Mark Smith,CUST759686,c606ddc4-c2dd-401d-b59a-15334605ec0e
+01/31/2025,08:10:24 AM,America/Chicago,Household & Cleaning,Dish Soap 12oz,1,Regular,$5.99,$0.00,$0.42,SQ20250131002176,PMT20250131002176,Register 2,,,Payment,Corner Store #1,,Phillip Burns,CUST372442,2120bfba-1689-40b8-879d-db62c37944c1
+02/01/2025,07:00:32 AM,America/Chicago,Health & OTC,Cough Drops Bag,1,Regular,$13.49,-$1.35,$0.85,SQ20250201002206,PMT20250201002206,Register 2,,,Payment,Corner Store #1,,,,
+02/01/2025,07:00:32 AM,America/Chicago,Bakery,Butter Croissant,1,Regular,$5.99,$0.00,$0.42,SQ20250201002206,PMT20250201002206,Register 1,,,Payment,Corner Store #1,,,,
+02/01/2025,07:00:32 AM,America/Chicago,Bakery,Cinnamon Roll,3,Regular,$16.47,$0.00,$1.15,SQ20250201002206,PMT20250201002206,Register 2,,,Payment,Corner Store #1,,,,
+02/01/2025,08:25:34 AM,America/Chicago,Beverages,Diet Coke 20oz Bottle,1,Regular,$3.49,$0.00,$0.24,SQ20250201002212,PMT20250201002212,Register 1,,,Payment,Corner Store #1,,Gail Barron,CUST510265,ff02f5b0-57bd-46c9-a240-063bfed747be
+02/01/2025,08:25:34 AM,America/Chicago,Candy,Reese's Peanut Butter Cups,1,Regular,$1.49,$0.00,$0.10,SQ20250201002212,PMT20250201002212,Register 2,,,Payment,Corner Store #1,,Gail Barron,CUST510265,ff02f5b0-57bd-46c9-a240-063bfed747be
+02/01/2025,05:46:03 PM,America/Chicago,Beverages,Iced Tea Lemon 18.5oz,1,Regular,$3.49,$0.00,$0.24,SQ20250201002256,PMT20250201002256,Register 2,,,Payment,Corner Store #1,,,,
+02/01/2025,07:48:37 AM,America/Chicago,Candy,Starburst Original Bag,2,Regular,$2.98,$0.00,$0.21,SQ20250201002281,PMT20250201002281,Register 1,,,Payment,Corner Store #1,,Parker Davis,CUST146275,0279e2ab-0bbf-4334-a3ea-2d7fc219a845
+02/01/2025,07:16:06 AM,America/Chicago,Snacks,Lay's Classic Chips 1oz,1,Regular,$1.99,$0.00,$0.14,SQ20250201002298,PMT20250201002298,Register 2,,,Payment,Corner Store #1,,,,
+02/01/2025,07:16:06 AM,America/Chicago,Grocery & Pantry,Instant Oatmeal Packets,1,Regular,$1.49,$0.00,$0.10,SQ20250201002298,PMT20250201002298,Register 1,,,Payment,Corner Store #1,,,,
+02/01/2025,07:16:06 AM,America/Chicago,Grocery & Pantry,Hot Sauce Bottle,2,Regular,$5.98,$0.00,$0.42,SQ20250201002298,PMT20250201002298,Register 1,,,Payment,Corner Store #1,,,,
+02/02/2025,03:56:29 PM,America/Chicago,Health & OTC,Nasal Spray,2,Regular,$24.98,$0.00,$1.75,SQ20250202002330,PMT20250202002330,Register 2,,,Payment,Corner Store #1,,,,
+02/02/2025,05:20:04 PM,America/Chicago,Dairy,2% Milk 1 Gallon,1,Regular,$4.49,$0.00,$0.31,SQ20250202002347,PMT20250202002347,Register 1,,,Payment,Corner Store #1,,Daniel Schneider,CUST866895,142e3df0-3c28-45dc-912d-aea8673d2920
+02/02/2025,05:20:04 PM,America/Chicago,Beverages,Energy Drink Sugar-Free 16oz,1,Regular,$3.99,$0.00,$0.28,SQ20250202002347,PMT20250202002347,Register 2,,,Payment,Corner Store #1,,Daniel Schneider,CUST866895,142e3df0-3c28-45dc-912d-aea8673d2920
+02/02/2025,05:20:04 PM,America/Chicago,Personal Care,Bar Soap 2-Pack,-,Regular,$3.99,$0.00,$0.28,SQ20250202002347,PMT20250202002347,Mobile POS,,,Payment,Corner Store #1,,Daniel Schneider,CUST866895,142e3df0-3c28-45dc-912d-aea8673d2920
+02/02/2025,11:29:28 AM,America/Chicago,Personal Care,Hair Gel Small,1,Regular,$7.49,$0.00,$0.52,SQ20250202002394,PMT20250202002394,Register 2,,,Payment,Corner Store #1,,,,
+02/03/2025,11:45:11 AM,America/Chicago,Personal Care,Toothpaste Tube,1,Regular,$5.99,$0.00,$0.42,SQ20250203002442,PMT20250203002442,Register 2,,,Payment,Corner Store #1,,,,
+02/03/2025,07:29:12 PM,America/Chicago,Beverages,Iced Latte Bottle 13oz,1,Regular,$1.99,$0.00,$0.14,SQ20250203002455,PMT20250203002455,Register 1,,,Payment,Corner Store #1,,Kristina Young,CUST866143,b2357a3c-cc7f-4517-8bfd-4a31c8c85ad6
+02/03/2025,07:29:12 PM,America/Chicago,Health & OTC,First Aid Spray,1,Regular,$10.99,$0.00,$0.77,SQ20250203002455,PMT20250203002455,Register 1,,,Payment,Corner Store #1,,Kristina Young,CUST866143,b2357a3c-cc7f-4517-8bfd-4a31c8c85ad6
+02/03/2025,07:29:12 PM,America/Chicago,Snacks,Trail Mix Pouch 2oz,1,Regular,$3.99,$0.00,$0.28,SQ20250203002455,PMT20250203002455,Register 2,,,Payment,Corner Store #1,,Kristina Young,CUST866143,b2357a3c-cc7f-4517-8bfd-4a31c8c85ad6
+02/03/2025,11:58:38 AM,America/Chicago,Dairy,Sour Cream 8oz,1,Regular,$5.99,$0.00,$0.42,SQ20250203002469,PMT20250203002469,Register 1,,,Payment,Corner Store #1,,,,
+02/03/2025,11:58:38 AM,America/Chicago,Household & Cleaning,Toilet Paper 4-Pack,1,Regular,$2.99,$0.00,$0.21,SQ20250203002469,PMT20250203002469,Register 2,,,Payment,Corner Store #1,,,,
+02/03/2025,11:58:38 AM,America/Chicago,Grocery & Pantry,Instant Oatmeal Packets,1,Regular,$1.49,-$0.15,$0.09,SQ20250203002469,PMT20250203002469,Register 1,,,Payment,Corner Store #1,,,,
+02/03/2025,11:58:38 AM,America/Chicago,Beverages,Iced Latte Bottle 13oz,1,Regular,$1.99,$0.00,$0.14,SQ20250203002469,PMT20250203002469,Register 1,,,Payment,Corner Store #1,,,,
+02/03/2025,11:58:38 AM,America/Chicago,Personal Care,Cotton Swabs Box,1,Regular,$1.99,-$0.20,$0.13,SQ20250203002469,PMT20250203002469,Register 2,,,Payment,Corner Store #1,,,,
+02/04/2025,05:17:51 PM,America/Chicago,Beverages,Chocolate Milk 14oz,1,Regular,$4.50,$0.00,$0.32,SQ20250204002506,PMT20250204002506,Register 2,,,Payment,Corner Store #1,,,,
+02/04/2025,11:38:27 AM,America/Chicago,Snacks,Cheese Crackers Pack,1,Regular,$3.49,$0.00,$0.24,SQ20250204002519,PMT20250204002519,Mobile POS,,,Payment,Corner Store #1,,,,
+02/05/2025,01:38:51 PM,America/Chicago,Beverages,Orange Juice 12oz,1,Regular,$2.49,$0.00,$0.17,SQ20250205002565,PMT20250205002565,Mobile POS,,,Payment,Corner Store #1,,,,
+02/05/2025,03:03:45 PM,America/Chicago,Beverages,Orange Juice 12oz,1,Regular,$2.49,$0.00,$0.17,SQ20250205002586,PMT20250205002586,Register 2,,,Payment,Corner Store #1,,,,
+02/05/2025,03:03:45 PM,America/Chicago,Dairy,Butter Stick 4oz,1,Regular,$6.99,$0.00,$0.49,SQ20250205002586,PMT20250205002586,Mobile POS,,,Payment,Corner Store #1,,,,
+02/05/2025,03:03:45 PM,America/Chicago,Frozen Foods,Frozen Pot Pie,1,Regular,$6.99,$0.00,$0.49,SQ20250205002586,PMT20250205002586,Mobile POS,,,Payment,Corner Store #1,,,,
+02/06/2025,12:39:32 PM,America/Chicago,Health & OTC,Eye Drops Bottle,2,Regular,$5.00,$0.00,$0.35,SQ20250206002634,PMT20250206002634,Mobile POS,,,Payment,Corner Store #1,,,,
+02/06/2025,12:39:32 PM,America/Chicago,Grocery & Pantry,Hot Sauce Bottle,1,Regular,$2.99,$0.00,$0.21,SQ20250206002634,PMT20250206002634,Register 1,,,Payment,Corner Store #1,,,,
+02/06/2025,12:39:32 PM,America/Chicago,Frozen Foods,Frozen Breakfast Sandwich,3,Regular,$19.47,-$1.95,$1.23,SQ20250206002634,PMT20250206002634,Mobile POS,,,Payment,Corner Store #1,,,,
+02/06/2025,12:39:32 PM,America/Chicago,Household & Cleaning,Air Freshener Spray,2,Regular,$12.98,$0.00,$0.91,SQ20250206002634,PMT20250206002634,Mobile POS,,,Payment,Corner Store #1,,,,
